@@ -1,0 +1,13 @@
+{
+  "api_key": "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",
+  "base_url": "https://api.openai.com/v1",
+  "stt_model": "gpt-4o-mini-transcribe",
+  "stt_fallback_model": "whisper-1",
+  "chat_model": "gpt-4o-mini",
+  "silence_threshold": 300,
+  "silence_end_sec": 0.8,
+  "max_segment_sec": 7.0,
+  "min_segment_sec": 0.35,
+  "font_size": 10,
+  "geometry": "380x309+99+357"
+}

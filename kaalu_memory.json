@@ -1,0 +1,17 @@
+﻿{
+    "xp":  8302,
+    "tts":  false,
+    "learned":  [
+                    "shake",
+                    "rollover",
+                    "playdead",
+                    "dance",
+                    "howl",
+                    "fetch",
+                    "dig",
+                    "zoomies"
+                ],
+    "lang":  "hi",
+    "music":  false,
+    "voice":  false
+}
